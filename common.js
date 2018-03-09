@@ -9,4 +9,5 @@ $(function () {
   });
   
   //this is just a gived up file
+	var cd = 'bz';
 });
