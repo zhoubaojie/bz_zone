@@ -7,4 +7,6 @@ $(function () {
       $(this).parents('li').addClass('active');
     }
   });
+  
+  //this is just a gived up file
 });
