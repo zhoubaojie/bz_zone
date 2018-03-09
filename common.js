@@ -29,7 +29,7 @@ $(function () {
       if(data.status == 1){
         $('.main-right dd .click').eq(index).text(data.click);
       }
-    });  
+    });
   });
 
   $('.main-left .click span').each(function(index){
@@ -38,6 +38,8 @@ $(function () {
       if(data.status == 1){
         $('.main-left .click span').eq(index).text(data.click);
       }
-    });  
+    });
   });
+  
+  alert(44);
 });
